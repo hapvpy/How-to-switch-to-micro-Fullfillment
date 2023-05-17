@@ -22,6 +22,20 @@
 
 <br><br>
 
+## 🤔❓ 문제상황 
+
+에콰도르의 유통전문 대기업인 <b>‘FAVORITA’</b> 그룹. <br>
+<b>FAVORITA</b>는 에콰도르 최대의 유통업계라는 타이틀을 <br>
+유지하기 위해서 빠르게 변화하는 고객의 구매패턴과 <br>
+시장환경에 따라 직면할 위기에 대비해야 한다. <br><br>
+
+따라서 <b>Favorita</b> 그룹의 <b>전략기획팀</b>은 <br>
+<b>“옴니스토어 또는 다크스토어로의 전환”</b>이라는 전략을 꾀하였고, <br>
+‘즈후 걸푸란’팀에게 <b>FAVORITA</b> 매장 중 가장 먼저 전환할 <br>
+매장을 선정하기 위한 데이터 분석을 요청하였다. <br>
+
+
+<br><br>
 
 ![image](https://github.com/hapvpy/How-to-switch-to-micro-Fullfillment/assets/124337933/94983b13-4b87-472e-84f6-68b861005b8a)
 
